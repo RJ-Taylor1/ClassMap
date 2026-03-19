@@ -1,4 +1,3 @@
-python
 from flask import Flask, render_template, request
 from skills.class_location import get_class_location
 from skills.transit_info import get_transit_info
